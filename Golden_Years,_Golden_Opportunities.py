@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Sidebar content
-st.sidebar.image('images/adobologo.png', use_column_width=True)
+st.sidebar.image('images/grouplogo.png', use_column_width=True)
 st.sidebar.write("Abby | Eugene | Gab | Johan | Nicole")
 
 # Main content image
