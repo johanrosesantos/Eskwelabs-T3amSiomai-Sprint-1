@@ -35,7 +35,6 @@ st.write(" ")
 
 st.header("Users spend the most on essentials including groceries, kids, pets and gas")
 st.image("images/catamt.png")
-st.write("Users also frequently spend onsite rather than online.")
 
 st.header("They also transact frequently on groceries, shopping and gas")
 st.image("images/catvol.png")
