@@ -1,1 +1,12 @@
-ECHO is on.
+[theme]
+
+theme = "paper"
+relativeURLs = true
+baseURL = "/"
+title = "Hugo Themes"
+author = "Steve Francia"
+copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+paginate = 4
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
