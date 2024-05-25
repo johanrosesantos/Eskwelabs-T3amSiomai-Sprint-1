@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Get the absolute paths of the images for debugging
-sidebar_image_path = os.path.abspath('images/adobo.logo.png')
+sidebar_image_path = os.path.abspath('images/adobologo.png')
 main_image_path = os.path.abspath('images/1.png')
 
 # Sidebar content
