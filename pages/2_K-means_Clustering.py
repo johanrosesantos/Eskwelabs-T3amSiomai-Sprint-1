@@ -4,8 +4,8 @@ st.set_page_config(
     page_title="Who are AAC's users by cluster?",
     layout="wide"
 )
-st.markdown("# Who are AAC's users by cluster?")
 st.sidebar.image('images/adobologo.png', use_column_width=True)
+st.markdown("# Who are AAC's users by cluster?")
 
 st.sidebar.header("How did we cluster the AAC users?")
 st.write("## How did we cluster the AAC users?")
