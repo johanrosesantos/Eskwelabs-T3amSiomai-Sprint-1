@@ -23,7 +23,7 @@ st.write("## 3D Scatter Plot Labeled by Cluster")
 st.image("images/7.png", use_column_width=True)
 
 st.write("## Customer Segmentation based on Demographic Profile and Spending Behavior")
-st.image(images/8.png", caption="Overview of Customer Segmentation (green text = highest values or unique attributes, orange text = lowest value)", use_column_width=True)
+st.image("images/8.png", caption="Overview of Customer Segmentation (green text = highest values or unique attributes, orange text = lowest value)", use_column_width=True)
 
 st.write("## Further Generalizations per User Segment ")
 st.image("assets/User Segmentation - Nicole (2).png", caption="General Characteristics per User Segment ", use_column_width=True)
