@@ -6,12 +6,23 @@ st.set_page_config(
 )
 st.markdown("# What drives AAC user spending?")
 st.sidebar.header("What drives AAC user spending?")
-# st.image("title_slide.png", width = 800)
-st.markdown(
-    """
-    Insert text here in markdown
-    # Heading
-    ## Subheading
-    - Bullets
-"""
-)
+
+st.image("lin_regression.png", caption="Overview of Customer Segmentation", width = 800)
+
+st.write("We estimated a linear regression model with total spending amount as the dependent variable. For the independent variables, we considered factors such as, the age group, location, the current season (i.e., dry or rainy), the time of day the transaction was made, and the RFM level. ")
+
+st.markdown("## Interpretation")
+
+st.markdown("### Age Bins:")
+st.write("Gen X customers tend to spend less compared to other groups.")
+st.write("Silent generation customers tend to spend more.")
+
+st.markdown("### Location")
+st.write("Customers in Visayas spend slightly more, but the effect is small.")
+st.write("No significant difference for customers in Mindanao.")
+
+st.markdown("### RFM Levels")
+st.write("Customers in the middle and top RFM levels spend significantly more, with the top RFM level having the largest positive effect.")
+
+st.markdown("### Other Variables")
+st.write("Being a holiday, POS status, rainy season, and time of day do not have a significant impact on spending.")
