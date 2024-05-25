@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="How powerful is AAC's users spending?",
     layout="wide"
 )
-st.sidebar.image('images/adobologo.png', use_column_width=True)
+st.sidebar.image('images/adobologo.png', width = 300)
 
 st.markdown("# How powerful is AAC's users spending?")
 st.sidebar.header("How powerful is AAC's users spending?")
