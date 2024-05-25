@@ -1,6 +1,8 @@
 
 import streamlit as st
 
+base="light"
+
 st.markdown(
     """
     <style>
