@@ -7,10 +7,10 @@ st.set_page_config(
 st.markdown("# What drives AAC user spending?")
 st.sidebar.header("What drives AAC user spending?")
 
-st.image("images/lin_regression.png", caption="Overview of Customer Segmentation", width = 800)
+st.image("images/lin_regression2.png", caption="Overview of Customer Segmentation", width = 800)
 
 st.write("We estimated a linear regression model with total spending amount as the dependent variable. For the independent variables, we considered factors such as, the age group, location, the current season (i.e., dry or rainy), the time of day the transaction was made, and the RFM level. ")
-st.write("The toal spending amount was log transformed, and all the independent variables were one-hot encoded.")
+st.write("The total spending amount was log transformed, and all the independent variables were one-hot encoded.")
 
 st.markdown("## Interpretation")
 
