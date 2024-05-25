@@ -15,8 +15,5 @@ st.sidebar.write("Abby | Eugene | Gab | Johan | Nicole")
 st.image('images/1.png')
 
 # Main app content
-st.title("Adobo Advantage Cards")
-st.write("This is a sample Streamlit app with a logo in the sidebar and a main image.")
-
-st.title("Challenge")
-st.write("This is a sample Streamlit app with a logo in the sidebar and a main image.")
+st.title("Adobo Advantage Cards' (AAC) Challenge")
+st.write("AAC is a credit card provider seeking the help of a consultant, aiming to enhance customer satisfaction and drive business growth by understanding its customer behavior thru customer segmentation and its correlation to spending.")
