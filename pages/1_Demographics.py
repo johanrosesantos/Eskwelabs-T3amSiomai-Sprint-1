@@ -8,7 +8,6 @@ st.markdown("# How powerful is AAC's users spending?")
 st.sidebar.header("How powerful is AAC's users spending?")
 # st.image("title_slide.png", width = 800)
 
-st.markdown("# How powerful is AAC's users spending?")
 st.header("AAC reported that 6.49M USD was generated from Jan. 1, 2020 to Dec. 7, 2021. This around Php 377M with the exchange rate of 1 USD=Php58.")
 
 st.markdown("# Who are the AAC users?")
