@@ -26,4 +26,4 @@ st.write("## Customer Segmentation based on Demographic Profile and Spending Beh
 st.image("images/8.png", caption="Overview of Customer Segmentation (green text = highest values or unique attributes, orange text = lowest value)", use_column_width=True)
 
 st.write("## Further Generalizations per User Segment ")
-st.image("assets/User Segmentation - Nicole (2).png", caption="General Characteristics per User Segment ", use_column_width=True)
+st.image("images/9.png", caption="General Characteristics per User Segment ", use_column_width=True)
