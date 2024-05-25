@@ -8,11 +8,11 @@ st.set_page_config(
 )
 
 # Sidebar content
-st.sidebar.image(sidebar_image_path, use_column_width=True)
+st.sidebar.image('images/adobologo.png', use_column_width=True)
 st.sidebar.write("Abby | Eugene | Gab | Johan | Nicole")
 
 # Main content image
-st.image(main_image_path)
+st.image('images/1.png')
 
 # Main app content
 st.title("Adobo Advantage Cards")
