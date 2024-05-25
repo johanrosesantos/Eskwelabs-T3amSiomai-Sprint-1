@@ -15,7 +15,7 @@ st.markdown("# Who are the AAC users?")
 st.sidebar.header("Who are the AAC users?")
 # st.image("title_slide.png", width = 800)
 
-st.header("Male users dominate the AAC users by 94%")
+st.header("Male users dominate the AAC clients by 94%")
 st.image("images/gender.png")
 
 st.header("Majority of AAC users hail from cities from Region III, IV-A & IV-B")
