@@ -17,7 +17,7 @@ st.markdown("# Who are AAC's users by cluster?")
 # )
 
 st.write("## How did we cluster the AAC users?")
-st.image("assets/Kcluster - Eugene.png", caption="Cluster Optimization", use_column_width=True)
+st.image("image/6.png", caption="Cluster Optimization", use_column_width=True)
 
 st.write("## 3D Scatter Plot Labeled by Cluster")
 st.image("assets/Kcluster - Eugene (2).png", use_column_width=True)
