@@ -12,7 +12,7 @@ st.header("AAC reported that **6.49M USD** was generated from Jan. 1, 2020 to De
 st.write("This is around Php 377M with an exchange rate of 1 USD=Php58.")
 
 st.markdown("# Who are the AAC users?")
-st.sidebar.header("How powerful is AAC's users spending?")
+st.sidebar.header("Who are the AAC users?")
 # st.image("title_slide.png", width = 800)
 
 st.header("Male users dominate the AAC users by 94%")
