@@ -4,7 +4,7 @@ st.markdown(
     """
     <style>
     .reportview-container {
-        background: url("https://cdn1.vectorstock.com/i/1000x1000/12/20/credit-card-seamless-background-vector-8521220.jpg");
+        background: st.image("images/bg.jpg");
     }
    </style>
     """,
