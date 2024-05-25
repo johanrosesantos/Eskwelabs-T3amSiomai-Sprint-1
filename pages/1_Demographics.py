@@ -1,5 +1,16 @@
 import streamlit as st
 
+st.markdown(
+    """
+    <style>
+    .reportview-container {
+        background: url("hhttps://cdn1.vectorstock.com/i/1000x1000/12/20/credit-card-seamless-background-vector-8521220.jpg");
+    }
+   </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.set_page_config(
     page_title="How powerful is AAC's users spending?",
     layout="wide"
