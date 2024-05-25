@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="What should AAC do?"
+    page_title="What should AAC do?",
+    layout="wide"
 )
 st.markdown("# What should AAC do?")
 st.sidebar.header("What should AAC do?")

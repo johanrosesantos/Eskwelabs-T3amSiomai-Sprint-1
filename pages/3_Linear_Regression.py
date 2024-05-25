@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="What drives AAC user spending?"
+    page_title="What drives AAC user spending?",
+    layout="wide"
 )
 st.markdown("# What drives AAC user spending?")
 st.sidebar.header("What drives AAC user spending?")

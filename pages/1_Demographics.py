@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="How powerful is AAC's users spending?"
+    page_title="How powerful is AAC's users spending?",
+    layout="wide"
 )
 st.markdown("# How powerful is AAC's users spending?")
 st.sidebar.header("How powerful is AAC's users spending?")
