@@ -5,16 +5,8 @@ st.set_page_config(
     layout="wide"
 )
 st.markdown("# Who are AAC's users by cluster?")
-# st.sidebar.header("Who are AAC's users by cluster?")
-# # st.image("assets/title_slide.png", width = 800)
-# st.markdown(
-#     """
-#     Insert text here in markdown
-#     # Heading
-#     ## Subheading
-#     - Bullets
-# """
-# )
+st.sidebar.image('images/adobologo.png', use_column_width=True)
+
 st.sidebar.header("How did we cluster the AAC users?")
 st.write("## How did we cluster the AAC users?")
 st.image("images/6.png", caption="Cluster Optimization", use_column_width=True)
