@@ -1,12 +1,8 @@
 [theme]
 
-theme = "paper"
-relativeURLs = true
-baseURL = "/"
-title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
-paginate = 4
-languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
+base = light
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#2c728e"  # Change this value to the desired color
+textColor = "	#708090"
+font = "sans serif"
